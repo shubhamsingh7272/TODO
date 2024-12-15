@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_todo_list"
+        android:icon="@drawable/baseline_format_list_bulleted_24"
+        android:title="TODO List" />
+    <item
+        android:id="@+id/nav_create_todo"
+        android:icon="@drawable/baseline_add_24"
+        android:title="Create TODO" />
+</menu>
