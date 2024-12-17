@@ -5,7 +5,7 @@ A simple yet efficient **TodoApp** built for Android that helps users manage the
 
 ## Demo Video
 
-You can watch the demo video of the TodoApp here: [Demo Video](https://drive.google.com/drive/folders/1zmvdTQoLVKrV45CE9kpba0hDj1CDz_8p)
+You can watch the demo video of the TodoApp here: [Demo Video](https://drive.google.com/drive/folders/1zmvdTQoLVKrV45CE9kpba0hDj1CDz_8p?usp=sharing)
 
 
 ## Features
